@@ -1,3 +1,7 @@
+//Iusupova Aizhan
+//Kurmanbekova Aizat
+//Kasymbekova Aisanat
+
 #include <iostream>
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv2/imgproc/imgproc.hpp>
